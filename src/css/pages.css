@@ -25,6 +25,33 @@
   background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
 }
 
+/* Cleaning Page Styles */
+.page-cleaning .content-main {
+  border-left: 4px solid #00bcd4;
+}
+
+.page-cleaning .sidebar-card:first-child {
+  background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+}
+
+/* Support Page Styles */
+.page-support .content-main {
+  border-left: 4px solid #9c27b0;
+}
+
+.page-support .sidebar-card:first-child {
+  background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+}
+
+/* Administrasi Page Styles */
+.page-administrasi .content-main {
+  border-left: 4px solid #673ab7;
+}
+
+.page-administrasi .sidebar-card:first-child {
+  background: linear-gradient(135deg, #ede7f6 0%, #d1c4e9 100%);
+}
+
 /* About Page */
 .page-about .page-header {
   padding: 60px 0 40px;

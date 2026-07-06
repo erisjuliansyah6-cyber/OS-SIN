@@ -8,6 +8,9 @@ const PAGES = {
   driver: { path: '/driver', file: 'src/pages/driver.html' },
   helper: { path: '/helper', file: 'src/pages/helper.html' },
   technical: { path: '/technical', file: 'src/pages/technical.html' },
+  cleaning: { path: '/cleaning', file: 'src/pages/cleaning.html' },
+  support: { path: '/support', file: 'src/pages/support.html' },
+  administrasi: { path: '/administrasi', file: 'src/pages/administrasi.html' },
   about: { path: '/about', file: 'src/pages/about.html' },
   contact: { path: '/contact', file: 'src/pages/contact.html' }
 };
