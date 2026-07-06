@@ -234,6 +234,7 @@ window.addEventListener('popstate', (event) => {
 document.addEventListener('DOMContentLoaded', async () => {
   setupYear();
   setupMobileMenu();
+  setupDropdown();
   
   // Load halaman pertama berdasarkan URL saat ini
   const path = window.location.pathname;
